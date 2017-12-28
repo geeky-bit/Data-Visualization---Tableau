@@ -28,7 +28,8 @@ This workbook contains a simple analysis of the Mass Shootings in the United Sta
 
 Mass Shootings in the United States of America (1966-2017) The US has witnessed 398 mass shootings in last 50 years that resulted in 1,996 deaths and 2,488 injured. The latest and the worst mass shooting of October 2, 2017 killed 58 and injured 515 so far. The number of people injured in this attack is more than the number of people injured in all mass shootings of 2015 and 2016 combined. The average number of mass shootings per year is 7 for the last 50 years that would claim 39 lives and 48 injured per year.
 
-The link to the workbook at Tableau public is given below. https://public.tableau.com/profile/karan7970#!/vizhome/AnalysisofShootingincidentsinUnitedStates1966-2017/Dash
+The link to the workbook at Tableau public is given below.
+https://public.tableau.com/profile/karan7970#!/vizhome/AnalysisofShootingincidentsinUnitedStates1966-2017/Dash
 
 # Project 3
 
@@ -44,4 +45,4 @@ https://public.tableau.com/profile/karan7970#!/vizhome/CrimeStatisticsfortheCity
 
 
 
-** Most of the sheets in the Workbook are adpated from the Opensource projects
+** Most of the sheets in the Workbooks are adpated from the OpenSource projects
