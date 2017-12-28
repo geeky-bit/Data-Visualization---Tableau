@@ -4,7 +4,7 @@ I like to work on visualizations in R and Tableau in the spare time.
 
 This repo is just a collection of some basic Workbooks in Tableau where I did the data analysis and exploration.
 
-# 1
+# Project 1
 Dataset used :: Kaggle -- Kobe Bryant Shot selection https://www.kaggle.com/c/kobe-bryant-shot-selection/data
 
 Description :: 
@@ -19,7 +19,7 @@ The link to the workbook at Tableau public is given below.
 https://public.tableau.com/profile/karan7970#!/vizhome/NBA-completeanalysisofshotsbyLakersKobeBryant/Shotsanalysis
 
 
-# 2
+# Project 2
 Dataset used :: Kaggle -- Mass shootings in the United States https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years/data
 
 Description :: 
@@ -30,7 +30,7 @@ Mass Shootings in the United States of America (1966-2017) The US has witnessed 
 
 The link to the workbook at Tableau public is given below. https://public.tableau.com/profile/karan7970#!/vizhome/AnalysisofShootingincidentsinUnitedStates1966-2017/Dash
 
-#3
+# Project 3
 
 Dataset used :: https://data.sfgov.org/Public-Safety/Police-Department-Incidents/tmnf-yvry
 
